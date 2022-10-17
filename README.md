@@ -11,4 +11,4 @@ select items and checkout the items added to the cart.</h3>
     Automation and testing technologies:- Selenium and TestNG<br>
     DevOps and production technologies: Git, GitHub, Jenkins, Docker,AWS EC2</h3>
 <h1>Admin home page Screenshot:-</h1>
-<img src="screenshots.jpeg">
+<img src="Screenshot.png">
