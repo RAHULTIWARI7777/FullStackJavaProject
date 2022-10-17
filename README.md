@@ -10,3 +10,5 @@ select items and checkout the items added to the cart.</h3>
     Database:- Mysql<br>
     Automation and testing technologies:- Selenium and TestNG<br>
     DevOps and production technologies: Git, GitHub, Jenkins, Docker,AWS EC2</h3>
+<h1>Admin home page Screenshot:-</h1>
+<img src="screenshots.jpeg">
