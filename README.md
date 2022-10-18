@@ -1,4 +1,4 @@
-# FullStackJavaProject
+# Foodbox-FullStackJavaProject
 <h4>Food box is a restaurant chain that delivers food items of different cuisines at affordable 
 prices. They have decided launch an online food delivery web application with a rich and 
 user-friendly interface. The system provides different functionalities for admin and non-admin 
